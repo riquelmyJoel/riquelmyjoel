@@ -10,4 +10,5 @@ Dev Full Stack Java para desenvolvimento de páginas, progamas, aplicativos, mob
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riquelmyjoel&repo=e-food&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riquelmyjoel&repo=e-food&theme=dark)](https://https://vercel.com/joels-projects-06e2daa3/e-food)
+
