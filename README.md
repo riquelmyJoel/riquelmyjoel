@@ -12,7 +12,7 @@ Dev Full Stack Java para desenvolvimento de páginas, progamas, aplicativos, mob
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riquelmyjoel&repo=e-food&theme=dark)](https://e-food-2lsqzoxcx-joels-projects-06e2daa3.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riquelmyjoel&repo=App-lista-de-tarefas&theme=dark)](https://app-lista-de-tarefas-iota.vercel.app/)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riquelmyjoel&repo=eplay&theme=dark)](https://eplay-kappa-azure.vercel.app/)
 
 ### Linguagens utilizadas
 
