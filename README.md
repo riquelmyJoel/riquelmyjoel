@@ -25,7 +25,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Full Stack Java, com formação em **Design Gráfico** e foco no desenvolvimento Front-end. Uno programação, criatividade e design para construir aplicações web modernas, responsivas e intuitivas.
+Sou desenvolvedor Full Stack Java, com curso de **Design Gráfico** e foco no desenvolvimento Front-end. Uno programação, criatividade e design para construir aplicações web modernas, responsivas e intuitivas.
 
 🎨 Minha experiência com design me ajuda a desenvolver interfaces que valorizam tanto a estética quanto a experiência do usuário.
 
